@@ -14,5 +14,5 @@ echo "nayan.dhoke@extract.com_4";
 echo "paradkarnayan_4www";
 
 
-cho "paradkarnayan_5www";
+echo "paradkarnayan_5www";
 ?>
